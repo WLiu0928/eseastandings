@@ -1,0 +1,934 @@
+                   Name              W  L  T  RF  RA 
+   1. RAIJIN                         15  1  0 265 143
+   2. chill 4 me                     15  1  0 257  97
+   3. CoalitionGG                    15  1  0 257 111
+   4. Dream Destroyerss              15  1  0 257 112
+   5. Intuitive eSports              15  1  0 256 117
+   6. Team Born                      15  1  0 256 118
+   7. eufnbu                         15  1  0 253 117
+   8. Visage Upsurge                 15  1  0 253 121
+   9. Rising Sun                     15  1  0 253 155
+  10. AAAAAAAAAAAAAAAAAAAAAAAA       15  1  0 243  90
+  11. Damn We Are Good               14  2  0 252 125
+  12. Bowlcut                        14  2  0 252 128
+  13. Adrenaline Rush                14  2  0 250 148
+  14. On The Run                     14  2  0 247  97
+  15. Team EKO Gaming                14  2  0 247 130
+  16. Recon Academy                  14  2  0 247 143
+  17. HushyDreams                    14  2  0 246 151
+  18. Apotheon Esports               14  2  0 242 133
+  19. Plant-It Hollywood             14  2  0 241 132
+  20. MSA eSports                    14  1  0 230  78
+  21. Gorilla Core E-Sports          14  1  0 226  74
+  22. - VeNoM Gaming -               13  3  0 255 142
+  23. Nifty Squad                    13  2  0 249 112
+  24. TempesT-GG                     13  3  0 249 132
+  25. Alcyone                        13  3  0 248 145
+  26. Gigantic Ass Turtles           13  3  0 248 146
+  27. Purge Gaming                   13  2  0 247 125
+  28. Fatherly Figures               13  3  0 247 158
+  29. Evolution Xcel                 13  3  0 247 173
+  30. Xcel eSports                   13  3  0 246 113
+  31. BOYS ARE BACK                  13  3  0 246 133
+  32. End Effect                     13  3  0 246 159
+  33. Hooked eSports Red             13  2  0 245 110
+  34. Alien 51 Gaming                13  3  0 245 142
+  35. PainFuL eSports_               13  3  0 245 152
+  36. Team Quetzal                   13  3  0 244 129
+  37. Blackjack and Hookers          13  3  0 243 165
+  38. SFWXO                          13  3  0 242 131
+  39. BulbaT                         13  3  0 242 135
+  40. Rampant                        13  3  0 241 147
+  41. CyberstormGG                   13  3  0 240 137
+  42. Supreme5                       13  3  0 239 117
+  43. Mommys Prime 5                 13  3  0 238 104
+  44. Vision_Gaming                  13  3  0 238 124
+  45. While One Fork                 13  3  0 238 150
+  46. Conformity                     13  3  0 238 158
+  47. Gods with Attitude             13  3  0 237 160
+  48. Utter Dogshit                  13  3  0 234 126
+  49. porkSports                     13  3  0 233 139
+  50. uRg                            13  3  0 232 131
+  51. AJs Rejects                    13  3  0 232 150
+  52. MarysMeds                      13  3  0 228 116
+  53. NVICTUS                        13  3  0 228 135
+  54. Rectify Gaming                 13  2  0 227 135
+  55. resented                       13  3  0 225 137
+  56. James Money Crew               13  3  0 224 121
+  57. beer league esports            13  3  0 222 131
+  58. BlueOtter Gaming               13  3  0 222 156
+  59. ESEA Clout Tokens              13  2  0 219 124
+  60. SweetAimBro                    12  4  0 250 169
+  61. FRANTIC                        12  4  0 249 147
+  62. Atlas Gaming NA                12  4  0 248 137
+  63. Dolfs Danger Dudes             12  4  0 246 185
+  64. Black Knights Gaming_          12  4  0 244 158
+  65. Tundra Gaming                  12  4  0 244 171
+  66. Simplify                       12  4  0 243 159
+  67. Shmurda Gang                   12  4  0 241 137
+  68. GameOn eSports                 12  4  0 241 148
+  69. Sister Fisters                 12  4  0 240 127
+  70. Evolve                         12  4  0 240 148
+  71. dRiVe FaSt                     12  4  0 240 157
+  72. Shelterfrogs                   12  4  0 240 161
+  73. Kitfoxes                       12  4  0 239 140
+  74. Gun Squad 9                    12  4  0 239 171
+  75. Samurai Squads                 12  4  0 237 125
+  76. MysteryBox                     12  4  0 237 135
+  77. False Prophecy                 12  4  0 237 135
+  78. Dynasty                        12  4  0 236 128
+  79. Ho-Kago Tea Time               12  4  0 236 145
+  80. Next Level eSports             12  4  0 236 150
+  81. Different Breed                12  4  0 235 123
+  82. Plasma Nation                  12  4  0 235 124
+  83. ToBDecided                     12  4  0 235 151
+  84. Demon-eSports                  12  4  0 235 151
+  85. Open Legends                   12  4  0 234 115
+  86. Might Get To IM                12  4  0 232 136
+  87. Team 600                       12  4  0 232 142
+  88. t D t                          12  4  0 231 114
+  89. Flaw Peacocks                  12  4  0 231 117
+  90. Team Connexion                 12  4  0 231 131
+  91. Abomination                    12  4  0 230 119
+  92. Headphone Gang                 12  4  0 230 133
+  93. Omega Gaming                   12  4  0 230 141
+  94. CU Boulder eSports             12  4  0 230 145
+  95. illicit                        12  3  0 230 146
+  96. Probably Tilting               12  4  0 230 172
+  97. Trilogy eSports                12  4  0 229 141
+  98. Filthy Puggers                 12  4  0 229 145
+  99. Team Alcatraz                  12  4  0 229 155
+ 100. Roster Trouble                 12  4  0 228 154
+ 101. Suffers Anime Crew             12  4  0 228 157
+ 102. JoJo and Co                    12  4  0 227 130
+ 103. Shirt Stain                    12  3  0 227 164
+ 104. Vindicate                      12  4  0 226 114
+ 105. Swang eSports                  12  4  0 226 153
+ 106. Open Bound Open Team           12  4  0 226 160
+ 107. riotsquad                      12  4  0 225 124
+ 108. Shoot 2 Kill                   12  4  0 225 159
+ 109. iNTACT eSports                 12  4  0 224 136
+ 110. ShivPatty_ReLoaded             12  4  0 224 155
+ 111. Flying Hippity                 12  4  0 224 170
+ 112. wyze                           12  4  0 223 142
+ 113. KOREAN FRIED CHICKEN           12  4  0 223 144
+ 114. WFAN                           12  4  0 223 152
+ 115. Quixotic Reality               12  4  0 223 165
+ 116. Dethrone                       12  3  0 222 133
+ 117. KQLY was Framed                12  3  0 220 103
+ 118. BIG BALLER BRAND               12  4  0 219 119
+ 119. BirdUp                         12  3  0 217 127
+ 120. CleanKillGG                    12  4  0 214 135
+ 121. Groovys Special Kids           12  4  0 208 154
+ 122. Shaq Diesel                    11  5  0 250 155
+ 123. OmegaAlphaZeroV6               11  5  0 247 184
+ 124. tQe                            11  5  0 246 177
+ 125. Wildegays                      11  5  0 245 184
+ 126. Pnda Gaming White              11  5  0 244 185
+ 127. Envision Empire                11  5  0 243 178
+ 128. PureChaos Blue                 11  5  0 242 151
+ 129. 34                             11  5  0 242 173
+ 130. turdo xd                       11  5  0 240 135
+ 131. Devour - eSports               11  5  0 240 155
+ 132. Tango World Wide               11  5  0 240 158
+ 133. Windstorm Gaming               11  5  0 240 160
+ 134. Last Picks                     11  5  0 240 167
+ 135. Assassins in Miniskirts        11  5  0 239 135
+ 136. Cut Throat                     11  5  0 239 144
+ 137. Cephalopod Squad               11  5  0 237 160
+ 138. buff ass cats                  11  5  0 237 169
+ 139. Moose Knuckle                  11  5  0 235 149
+ 140. -Solace-                       11  5  0 235 173
+ 141. NoIntegrity                    11  5  0 235 174
+ 142. silhouette                     11  5  0 235 177
+ 143. dece excitement                11  5  0 235 179
+ 144. Puggers United                 11  5  0 234 165
+ 145. 5 Guys Losses and Ties         11  5  0 234 169
+ 146. UC Riverside CSGO              11  5  0 233 156
+ 147. Lemon Water                    11  5  0 232 123
+ 148. Pistol Shrimps                 11  5  0 232 159
+ 149. Bayou City Toros               11  5  0 231 134
+ 150. Alex Garcia                    11  5  0 231 169
+ 151. Jesus Lovers                   11  5  0 231 170
+ 152. Exiled                         11  5  0 230 126
+ 153. VisionGaming1                  11  5  0 229 144
+ 154. Loyalty eSports                11  5  0 229 147
+ 155. Wave Runners                   11  4  0 229 165
+ 156. iTactix                        11  5  0 229 166
+ 157. CounterSpec                    11  5  0 228 132
+ 158. Team-Insolense                 11  5  0 228 179
+ 159. Succ n Fucc                    11  5  0 227 155
+ 160. unlimited1                     11  5  0 227 168
+ 161. Core i4                        11  5  0 226 158
+ 162. PolaraGG                       11  4  0 226 172
+ 163. This Shit is Too Easy          11  5  0 225 131
+ 164. DeMize eSports Reborn          11  5  0 225 158
+ 165. Easy Game                      11  5  0 225 176
+ 166. Team KappaPride                11  4  0 223 123
+ 167. LUCKY                          11  5  0 223 145
+ 168. Nuts2Butts                     11  5  0 223 153
+ 169. Ballistix                      11  5  0 222 139
+ 170. Wildcard Gaming                11  5  0 222 152
+ 171. PowerHouseCS                   11  5  0 221 143
+ 172. ur fav thiccboys               11  5  0 221 158
+ 173. First Order Gaming             11  5  0 221 175
+ 174. FiveGuysBurgersAndFrags        11  5  0 220 115
+ 175. Shark Gaming                   11  4  0 220 144
+ 176. LunatiX                        11  5  0 220 145
+ 177. Threat ESports                 11  5  0 220 168
+ 178. CHINANumba1BrNumba0            11  4  0 219 149
+ 179. Finesse Gods                   11  5  0 219 159
+ 180. PlaygroundRejects              11  5  0 218 134
+ 181. 200 IQ players-                11  5  0 218 140
+ 182. Retrovert                      11  5  0 218 166
+ 183. Third Line Centers             11  5  0 217 145
+ 184. GAMIGOS                        11  5  0 217 159
+ 185. Abstract                       11  5  0 216 130
+ 186. ryL Gaming                     11  4  0 216 139
+ 187. Gift Of God                    11  5  0 216 140
+ 188. Breakdown                      11  4  0 216 148
+ 189. TwistedWays                    11  5  0 216 169
+ 190. FHQWHGADSENT                   11  5  0 216 171
+ 191. Team Sabre-                    11  5  0 216 187
+ 192. MindReaderz                    11  5  0 215 116
+ 193. caked                          11  5  0 215 143
+ 194. defiaNt                        11  5  0 215 150
+ 195. NuttyEHmers                    11  5  0 214 137
+ 196. YoungBrothers                  11  5  0 214 156
+ 197. EminentGG                      11  5  0 213 131
+ 198. TwistedSin                     11  5  0 213 170
+ 199. Centurio GG                    11  5  0 213 175
+ 200. Fastclicks                     11  5  0 212 148
+ 201. Aydus                          11  4  0 211 140
+ 202. Frigid                         11  5  0 211 141
+ 203. ixde electronic                11  5  0 211 164
+ 204. Minty Fresh                    11  5  0 208 128
+ 205. AURA                           11  5  0 208 148
+ 206. Tumultuous Timmy Turner        11  4  0 208 149
+ 207. We Are Scared                  11  5  0 207 145
+ 208. fluffy bunnies                 11  5  0 204 195
+ 209. Valiance                       11  4  0 203 130
+ 210. Claridad CS                    11  4  0 202 150
+ 211. Unreal Gaming                  11  5  0 200 140
+ 212. Monkey Madness                 11  5  0 200 167
+ 213. Tilted-                        11  5  0 198 135
+ 214. M1NORITY                       11  5  0 187 145
+ 215. Atrocity GG                    10  6  0 247 164
+ 216. Strafe eSports                 10  5  0 239 160
+ 217. Team Arctic                    10  6  0 239 161
+ 218. Martyr                         10  6  0 238 180
+ 219. Team Venum                     10  6  0 238 190
+ 220. Root Cause                     10  6  0 233 136
+ 221. iQUIT CS                       10  6  0 233 184
+ 222. Pack Tactics                   10  6  0 232 152
+ 223. Phantasm                       10  6  0 231 171
+ 224. QuantumGaming                  10  6  0 229 171
+ 225. BLNKgg                         10  6  0 229 177
+ 226. Peak eSports                   10  6  0 229 180
+ 227. Zero Impact Frags              10  6  0 228 183
+ 228. Fortuity eSports               10  6  0 227 134
+ 229. Riders Raiders                 10  6  0 227 157
+ 230. Clockwork Gaming               10  6  0 227 162
+ 231. Fragnetic                      10  6  0 227 164
+ 232. 2 nice                         10  6  0 226 154
+ 233. Y33T Squad                     10  6  0 225 144
+ 234. Archer Esports                 10  6  0 225 176
+ 235. MixedReviews                   10  5  0 224 128
+ 236. Aranea                         10  6  0 223 150
+ 237. Doobies Scooby Crew            10  5  0 223 177
+ 238. Category 5 eSports             10  6  0 222 147
+ 239. TEAM CANADIA                   10  6  0 222 155
+ 240. Kinetic                        10  6  0 222 160
+ 241. - Geeks R Us -                 10  6  0 222 162
+ 242. Lethal Divide GG               10  6  0 222 189
+ 243. WE HAWT                        10  6  0 221 156
+ 244. JD Powah                       10  6  0 221 161
+ 245. Fiddler and the Diddlers       10  6  0 221 173
+ 246. iPurchasePower                 10  6  0 220 146
+ 247. OGL Allstars                   10  5  0 220 155
+ 248. Splynter Esports               10  6  0 220 197
+ 249. FragginBallZ                   10  6  0 219 138
+ 250. Voltage Gaming                 10  5  0 219 169
+ 251. Work Hustle Kill               10  6  0 218 128
+ 252. Cynics                         10  6  0 218 137
+ 253. Nox Umbra                      10  6  0 218 154
+ 254. Team Cypher                    10  6  0 218 184
+ 255. Precision Gaming               10  6  0 217 144
+ 256. Emerald Isle                   10  6  0 217 171
+ 257. Quintessential E-sports        10  6  0 216 121
+ 258. Ekode                          10  6  0 216 132
+ 259. Ascendancy eSports             10  6  0 216 147
+ 260. Mutiny CS                      10  6  0 216 160
+ 261. Squishy Knights                10  6  0 216 163
+ 262. Mosos-Money-Crew               10  6  0 215 119
+ 263. Cranium Guys                   10  6  0 215 168
+ 264. Make A Killing                 10  6  0 214 154
+ 265. 5 Boys 2 Cups                  10  6  0 214 158
+ 266. gravityCS                      10  6  0 214 169
+ 267. FinalStrikeGG                  10  5  1 214 193
+ 268. Bangxoxo                       10  6  0 213 139
+ 269. Falcons-GG                     10  6  0 213 158
+ 270. High Octane                    10  6  0 213 168
+ 271. deViation-                     10  6  0 213 175
+ 272. fish n chips                   10  6  0 212 150
+ 273. Every Villain is Lemons        10  6  0 212 156
+ 274. teamguildsquad                 10  6  0 212 173
+ 275. Hot Dudes Playing CS           10  6  0 212 177
+ 276. Kimball Jaguarz                10  6  0 211 170
+ 277. Team Carnage CS                10  6  0 211 176
+ 278. CRIMGG                         10  6  0 210 145
+ 279. DreamWave                      10  5  0 210 147
+ 280. SpecterGG                      10  6  0 210 153
+ 281. NXT                            10  5  0 209 144
+ 282. Ghoul Gaming                   10  6  0 209 159
+ 283. PrecisionCS                    10  6  0 209 167
+ 284. Straight Trash                 10  6  0 208 119
+ 285. Turtle Hermit Esports          10  6  0 207 126
+ 286. Trumps Construction Crew       10  6  0 207 131
+ 287. Clockwork_Gaming               10  6  0 207 170
+ 288. Insurgents                     10  6  0 206 174
+ 289. Team Enherity                  10  6  0 205 121
+ 290. Sleepy eSports                 10  6  0 205 184
+ 291. ript up                        10  6  0 204 151
+ 292. Ignite Gaming                  10  6  0 204 169
+ 293. Da Gods                        10  6  0 204 191
+ 294. Upsets                         10  6  0 203 122
+ 295. EZZZ KATKA                     10  6  0 202 150
+ 296. Flick to Win                   10  6  0 201 144
+ 297. Loyal to the Grind             10  6  0 200 125
+ 298. 4 Friends and Fritz            10  6  0 200 150
+ 299. Fav2                           10  6  0 199 139
+ 300. Verdict eSports                10  6  0 199 150
+ 301. A FLOCK OF GEESE               10  6  0 198 146
+ 302. Concept Gaming                 10  6  0 197 146
+ 303. MaryvilleGG                    10  6  0 197 169
+ 304. peerLess                       10  6  0 195 130
+ 305. Road To Main                   10  6  0 194 135
+ 306. Temp3st GG                     10  6  0 194 147
+ 307. Team_Collateral                10  6  0 194 154
+ 308. Team Aviate                    10  6  0 192 148
+ 309. Aurora Gaming_                 10  6  0 192 164
+ 310. Maybe Good                     10  6  0 191 148
+ 311. The Curry Boyz                 10  6  0 190 169
+ 312. Glockamole                     10  6  0 189 146
+ 313. Entity E-Sports                10  4  0 188 126
+ 314. Birds of War                    9  7  0 231 213
+ 315. Fade                            9  6  0 228 161
+ 316. Gradatim Ferociter              9  7  0 228 190
+ 317. Lethal Gamers Official          9  7  0 226 185
+ 318. American Orangutans             9  7  0 226 188
+ 319. VaderExtraction                 9  7  0 225 157
+ 320. subtronic                       9  7  0 220 172
+ 321. crisp_clean_lock                9  6  0 218 152
+ 322. dope                            9  7  0 218 158
+ 323. Infinit3 Potential              9  7  0 218 168
+ 324. Clutch Meisters                 9  7  0 217 126
+ 325. Guerrilla                       9  7  0 217 140
+ 326. equanimityGG                    9  7  0 217 142
+ 327. Holding W                       9  7  0 217 194
+ 328. Madvillains                     9  7  0 215 156
+ 329. MentalAsylum                    9  7  0 215 160
+ 330. Sliver Shot                     9  7  0 215 165
+ 331. Team_Legion_                    9  7  0 215 167
+ 332. DreamKillers                    9  7  0 214 216
+ 333. 3 Ricks 2 Mortys                9  7  0 213 141
+ 334. HABIT                           9  7  0 213 142
+ 335. M inence                        9  7  0 213 157
+ 336. -good team name-                9  6  0 213 174
+ 337. Stay Fresh                      9  7  0 212 156
+ 338. MixLife                         9  7  0 212 188
+ 339. - Brainless eSports -           9  7  0 211 163
+ 340. Visions                         9  7  0 210 156
+ 341. Radio Communication             9  7  0 208 173
+ 342. Firstwave                       9  7  0 208 183
+ 343. Informal Penguins               9  7  0 207 148
+ 344. Orthrus                         9  7  0 207 163
+ 345. SHARK BAITS                     9  7  0 207 181
+ 346. Do Not Know                     9  7  0 206 147
+ 347. united Victory                  9  7  0 206 176
+ 348. Team Beta CSGO                  9  7  0 205 142
+ 349. Insurgency                      9  7  0 205 158
+ 350. Anarchy eSports                 9  7  0 205 162
+ 351. Primal Gaming                   9  7  0 205 164
+ 352. Rejex eSports                   9  7  0 205 177
+ 353. Rank D Rejects                  9  7  0 205 184
+ 354. VaiN eSports                    9  6  0 204 127
+ 355. NERDPLOW                        9  7  0 203 165
+ 356. MadKings                        9  7  0 203 167
+ 357. Indomite                        9  7  0 203 175
+ 358. G-O- DEVILS                     9  7  0 202 135
+ 359. BattleBros                      9  7  0 202 196
+ 360. Prey                            9  6  0 201 122
+ 361. We Take It Seriously            9  7  0 200 173
+ 362. fragHappy eSports               9  6  0 198 154
+ 363. BigDickRick                     9  7  0 198 175
+ 364. Ancient                         9  7  0 198 176
+ 365. LegendsNeverDie                 9  7  0 198 200
+ 366. yung money yoda                 9  7  0 197 161
+ 367. COSMIC WARRIOR NINJAS           9  6  0 197 173
+ 368. PochinkiBoyz                    9  7  0 197 182
+ 369. distinKt                        9  7  0 196 154
+ 370. Open Experience Needed          9  7  0 195 149
+ 371. RAGE Academy                    9  7  0 194 137
+ 372. RestartGaming                   9  7  0 194 139
+ 373. Evil Empire                     9  7  0 194 176
+ 374. The Boys xD                     9  7  0 193 136
+ 375. SuiGen                          9  7  0 193 160
+ 376. Divinus Gaming                  9  7  0 193 184
+ 377. Team Style and Finesse          9  7  0 191 140
+ 378. NUTZZZ                          9  7  0 191 159
+ 379. Rare Candy                      9  7  0 191 179
+ 380. 50 Cal                          9  7  0 191 198
+ 381. Kamikazes                       9  7  0 190 144
+ 382. Who Hurt You                    9  7  0 190 170
+ 383. Apollo E-Sports                 9  7  0 188 166
+ 384. Team Elysian                    9  7  0 188 197
+ 385. Team Hysteria                   9  7  0 187 140
+ 386. Seal Team Flicks                9  7  0 187 168
+ 387. SEQUENCE                        9  7  0 187 179
+ 388. TheLazyOnes                     9  6  0 185 135
+ 389. The Hunny Badgers               9  6  0 183 133
+ 390. 0 to 0 real quick               9  6  0 183 141
+ 391. Bunker RUSH                     9  7  0 183 148
+ 392. xxxVari73rdGang                 9  7  0 182 134
+ 393. Cass                            9  7  0 181 156
+ 394. Night Fall Gaming               9  7  0 181 162
+ 395. Bongo Bangers                   9  7  0 180 151
+ 396. cartier                         9  7  0 174 143
+ 397. Ex-FaintGaming                  9  7  0 174 144
+ 398. Malevolent Revolution           9  7  0 171 131
+ 399. Maui Monkey                     9  7  0 171 172
+ 400. Team Omniscient Gaming          9  6  0 170 139
+ 401. FUZZIE CREW                     9  5  0 169 129
+ 402. Turnups                         9  7  0 164 170
+ 403. veNomous 2k17                   9  7  0 158 146
+ 404. Fervor                          8  8  0 231 172
+ 405. Boosted Bonobo Crew             8  8  0 226 195
+ 406. Donut Thunder                   8  8  0 222 164
+ 407. IgnitedGG                       8  8  0 219 193
+ 408. Daddys Cummies                  8  8  0 218 185
+ 409. RIT CSGO D1                     8  8  0 216 175
+ 410. Plus Ultra                      8  8  0 215 180
+ 411. Dogs of War-                    8  7  0 214 162
+ 412. Legion Gaming                   8  8  0 211 176
+ 413. We Suck At Dota                 8  8  0 211 186
+ 414. 5PuggersNDream                  8  8  0 211 207
+ 415. The projecT                     8  8  0 211 208
+ 416. Command Prompt                  8  7  0 209 158
+ 417. Cube Kings                      8  8  0 207 175
+ 418. Smiling Gamers                  8  7  0 205 148
+ 419. Hotel Nikko Guam                8  8  0 205 202
+ 420. bonbon                          8  8  0 203 142
+ 421. d4nnys Monkey Crew              8  8  0 203 160
+ 422. Next Gen Gaymerz                8  8  0 202 181
+ 423. Oxide                           8  8  0 202 189
+ 424. PLAYBOIS                        8  8  0 202 193
+ 425. Team Fused                      8  8  0 202 197
+ 426. Just Chillin                    8  6  1 201 145
+ 427. Symentic                        8  8  0 200 162
+ 428. Juanitos Burritos               8  8  0 199 166
+ 429. Prevail Gaming                  8  8  0 199 188
+ 430. Divination                      8  8  0 199 196
+ 431. Team Sigma                      8  8  0 198 158
+ 432. Regret Gaming                   8  8  0 198 177
+ 433. Superare                        8  8  0 197 175
+ 434. wheres Jaldo                    8  8  0 196 157
+ 435. PowRangrs                       8  8  0 195 185
+ 436. Omen Gaming                     8  8  0 195 186
+ 437. Noble Truth                     8  8  0 192 160
+ 438. iSellPowerCSGO                  8  8  0 192 179
+ 439. Magic Flight                    8  8  0 191 170
+ 440. FULL CLIP                       8  8  0 191 204
+ 441. Sugoi Gaming                    8  8  0 190 148
+ 442. One Goal Perfection             8  8  0 190 150
+ 443. DINOSOWER                       8  8  0 188 140
+ 444. Krusty Krew                     8  8  0 188 144
+ 445. Super Nova eSports              8  8  0 188 186
+ 446. Fatal eSports                   8  8  0 188 200
+ 447. Big League Chew                 8  8  0 187 170
+ 448. Lift Gaming                     8  8  0 187 172
+ 449. Robo Squad                      8  8  0 185 138
+ 450. Poseidon eSports NA             8  8  0 185 148
+ 451. Glens Tiny Aids Cock            8  8  0 185 171
+ 452. Strikeout Gaming                8  8  0 184 150
+ 453. Clipz                           8  8  0 184 169
+ 454. Nsty CSGO                       8  7  0 184 180
+ 455. sunder                          8  8  0 183 178
+ 456. Initials                        8  8  0 183 194
+ 457. Throwing for Skins              8  8  0 181 153
+ 458. Wise Guys                       8  8  0 181 174
+ 459. Angels of the Warp              8  8  0 177 138
+ 460. Go0ff                           8  8  0 177 147
+ 461. Praseodymium                    8  8  0 177 163
+ 462. Daddy Squad                     8  8  0 177 175
+ 463. Daydreamers CS                  8  8  0 176 172
+ 464. Audentia eSports                8  7  0 175 138
+ 465. The Savages Pro                 8  8  0 175 168
+ 466. Yeti Bois                       8  8  0 174 157
+ 467. The Steel Phoenix               8  8  0 174 172
+ 468. Rebellious Gaming               8  8  0 174 197
+ 469. MOOTED                          8  7  0 173 166
+ 470. Severity Gaming                 8  8  0 172 142
+ 471. Bandit Esports                  8  8  0 172 158
+ 472. Off the Air                     8  8  0 171 198
+ 473. Man I Love Fraggin              8  8  0 170 154
+ 474. NHS Millers                     8  8  0 170 154
+ 475. GeckoFox                        8  8  0 170 183
+ 476. Olympus eSports                 8  8  0 169 174
+ 477. reviVe                          8  7  0 168 133
+ 478. Lavish Scum                     8  8  0 168 168
+ 479. bhop 2 work                     8  8  0 167 159
+ 480. WE WIN OPEN EVERY SEASON        8  7  0 166 155
+ 481. heck                            8  8  0 165 176
+ 482. Blood Sports                    8  7  0 164 125
+ 483. Dirty Dean and the Boys         8  8  0 162 162
+ 484. ISIS Official                   8  8  0 162 173
+ 485. The Abusement Train             8  8  0 161 182
+ 486. DoubleScope Main                8  8  0 160 176
+ 487. FreeBrax                        8  8  0 149 134
+ 488. Intex                           8  7  0 147 138
+ 489. NOISIA                          8  8  0 140 163
+ 490. everLasT                        8  7  0 139 185
+ 491. NotEven                         7  9  0 211 161
+ 492. Big Fat Smelly Cunts            7  8  0 211 181
+ 493. letsfakthem                     7  9  0 206 169
+ 494. Oliver Forest                   7  9  0 203 205
+ 495. 9 Lives                         7  9  0 201 197
+ 496. The Gares Family                7  9  0 201 207
+ 497. Blue Esports                    7  8  0 196 177
+ 498. Hyperial Gaming                 7  9  0 195 171
+ 499. SollertiS                       7  8  0 195 190
+ 500. The Frag Addicts                7  9  0 193 185
+ 501. Militia Nation                  7  8  0 193 190
+ 502. Sharkbait_GG                    7  9  0 193 223
+ 503. DunderMifflin                   7  8  0 191 201
+ 504. 5150 eSports                    7  9  0 190 165
+ 505. Cat Squad                       7  9  0 190 179
+ 506. Team_Havok                      7  9  0 189 169
+ 507. GOAT SQUAD                      7  9  0 188 156
+ 508. The Blundering Fools            7  9  0 188 162
+ 509. Reality CS                      7  8  0 187 176
+ 510. Indigo Goon Gang                7  9  0 185 193
+ 511. YEG Gaming Club                 7  9  0 182 170
+ 512. Low Gravity Gaming              7  9  0 182 188
+ 513. Venerf                          7  7  0 181 187
+ 514. Lokust Krew                     7  9  0 179 154
+ 515. Unbreakable -                   7  9  0 179 195
+ 516. xPotatox Esports                7  9  0 178 210
+ 517. Thought Police                  7  9  0 177 164
+ 518. MiPzsDawgs                      7  9  0 175 174
+ 519. GoodBoys                        7  9  0 175 189
+ 520. autopro                         7  9  0 172 160
+ 521. TeamInFamous                    7  8  0 171 159
+ 522. Penguins in F16s                7  8  0 171 160
+ 523. eNskyNation                     7  9  0 170 165
+ 524. SCREAMZ 4 SCRIMZ                7  9  0 170 174
+ 525. HitterS                         7  8  0 169 131
+ 526. Team Top Box                    7  9  0 169 155
+ 527. Variance Gaming                 7  9  0 167 157
+ 528. -EnvisioN-                      7  9  0 167 169
+ 529. ibuyguci                        7  8  0 167 183
+ 530. DisbandedEsports                7  9  0 167 195
+ 531. Dragon Gaming                   7  9  0 166 156
+ 532. Guidance                        7  8  0 166 170
+ 533. Ass Kickers                     7  9  0 165 155
+ 534. Nox                             7  9  0 165 162
+ 535. Trumps anime                    7  8  0 164 166
+ 536. Fresco Money Crew               7  9  0 164 193
+ 537. PureCHAOS Th3                   7  9  0 162 196
+ 538. Team Ranger                     7  9  0 161 144
+ 539. chad and the incels             7  9  0 161 188
+ 540. Melting Pot                     7  9  0 161 198
+ 541. BigLeagueBoys                   7  9  0 161 201
+ 542. eXcalibur HQ                    7  9  0 160 183
+ 543. TeamMayhem                      7  8  0 158 181
+ 544. Cute Logic Gaming               7  9  0 158 196
+ 545. Amethyst Academy Team           7  9  0 157 171
+ 546. Young Little Ds                 7  8  0 155 150
+ 547. casual gaming please            7  8  0 154 164
+ 548. Fleeb                           7  9  0 154 167
+ 549. Team Pants                      7  9  0 152 160
+ 550. Muerte                          7  9  0 152 172
+ 551. ARIA                            7  8  0 151 138
+ 552. Version One Gaming              7  8  0 151 153
+ 553. Team Fools Gold                 7  8  0 151 184
+ 554. Attack 5                        7  8  0 150 131
+ 555. Team_Fierce                     7  9  0 150 164
+ 556. nTENSE                          7  9  0 149 170
+ 557. InC Gaming                      7  7  0 148 150
+ 558. Team Phoenix Gaming             7  9  0 148 165
+ 559. Team Stun                       7  9  0 148 178
+ 560. Behind the Hype                 7  9  0 146 160
+ 561. Enraged Whiz Monkeys            7  9  0 144 201
+ 562. On-The-Gear                     7  9  0 143 166
+ 563. Goat Tappers                    7  9  0 142 144
+ 564. Beyond Low eSports              7  9  0 142 155
+ 565. Creatine and YOGA               7  8  0 141 134
+ 566. Dimitar                         7  9  0 141 181
+ 567. Gym Studs                       7  9  0 141 198
+ 568. 5 Beats Per Minute              7  9  0 140 161
+ 569. Sparkle Motion Trolls           7  9  0 135 168
+ 570. Limbo Clan                      7  8  0 134 140
+ 571. Insane Fraggers                 7  9  0 134 158
+ 572. Lares                           7  9  0 134 186
+ 573. YT Spartans                     7  9  0 126 144
+ 574. cuckdad69                       7  3  0 125  79
+ 575. hibernation                     7  9  0 118 174
+ 576. OceanBorn                       6 10  0 203 174
+ 577. 5 Alive                         6 10  0 199 183
+ 578. PartTimeGaming                  6 10  0 186 182
+ 579. x2                              6 10  0 185 199
+ 580. Hold this position              6  9  0 182 181
+ 581. OK Gaming                       6 10  0 179 198
+ 582. Udox                            6  9  0 173 177
+ 583. Gray Matter                     6 10  0 167 196
+ 584. Seduction                       6  9  0 165 172
+ 585. New England Whalers             6 10  0 164 163
+ 586. Obso1337 GamerZ                 6  9  0 161 148
+ 587. rancid abattoir                 6  9  0 161 166
+ 588. dupLicity                       6 10  0 161 172
+ 589. Pure Chaos                      6 10  0 161 201
+ 590. Giant Raccoon Gaming            6  9  0 160 168
+ 591. Just Some Handsome Boys         6 10  0 158 165
+ 592. rip_tide                        6  8  0 156 128
+ 593. SavagePatchKidz                 6  9  0 156 180
+ 594. Kappa 1                         6  8  0 155 178
+ 595. BeyondVicious                   6  9  0 155 199
+ 596. Yacht Club                      6  8  0 154 163
+ 597. Feral Gaming                    6  8  0 154 166
+ 598. Open for Business               6 10  0 154 201
+ 599. G3 Esports                      6 10  0 154 205
+ 600. Deorum-                         6  9  0 152 176
+ 601. Quake E-Sports                  6  9  0 152 178
+ 602. Selenium                        6 10  0 149 175
+ 603. dead ass team                   6 10  0 149 196
+ 604. mid or techies                  6 10  0 148 210
+ 605. Mach5 Gaming                    6  8  0 146 160
+ 606. Sinfinity                       6  9  0 145 175
+ 607. Buttermilk Biscuits             6 10  0 145 182
+ 608. DrillinPutsnSlappinButts        6 10  0 145 225
+ 609. tNt Fe                          6 10  0 143 189
+ 610. Tech Abandoned Us               6  9  0 142 162
+ 611. Aim for the Teeth               6 10  0 142 168
+ 612. Liger Bigots                    6  9  0 141 176
+ 613. Team NVS                        6  9  0 141 179
+ 614. RowdyCS                         6  9  0 139 155
+ 615. The Anime Guild                 6  9  0 139 177
+ 616. Aries Meme Team                 6 10  0 139 178
+ 617. Dead Labyrinth                  6  8  0 137 149
+ 618. SneezEsports                    6 10  0 136 160
+ 619. ex-eXcalibur                    6 10  0 136 205
+ 620. Beaver eSports                  6  8  0 133 137
+ 621. MagicHippyLoveCloud             6  8  0 132 137
+ 622. WEGOT 10                        6 10  0 132 172
+ 623. shoutouttoelon                  6  6  0 131 128
+ 624. Trinity_                        6  9  0 131 159
+ 625. A Hard XD                       6  6  0 126 115
+ 626. NLO                             6  9  0 126 181
+ 627. Boolin Boys                     6  8  0 124 146
+ 628. Abusive Gamers                  6 10  0 122 160
+ 629. Dolos Money Kru                 6  8  0 121 179
+ 630. Team Lotus                      6 10  0 121 197
+ 631. CoCo Nut Recruit                6  9  0 120 163
+ 632. SupremeGG                       6  8  0 119 158
+ 633. Misty Esports                   6  8  0 114 156
+ 634. Conquer All                     6 10  0 114 181
+ 635. ON THE ROCKS                    6  9  0 113 153
+ 636. TARC                            6 10  0 113 160
+ 637. Team Kuiper                     6  9  0 112 165
+ 638. Ambisinister                    6 10  0 112 192
+ 639. Artemis                         6  8  0 106 176
+ 640. 5 Alive eSports                 6  8  0 105 135
+ 641. Flaky5                          5 10  0 161 202
+ 642. Turing Test Failures            5 10  0 159 162
+ 643. Enemy Spotted Enemy Down        5 11  0 157 194
+ 644. SnackShack                      5 10  0 154 181
+ 645. Clockwork CS                    5 10  0 153 205
+ 646. Inflated Ego                    5 11  0 151 191
+ 647. cs rize                         5 10  0 146 182
+ 648. Sandlot Militia                 5 10  0 145 169
+ 649. WE HAWWWT                       5  9  0 143 166
+ 650. Aimpunch eSports                5 11  0 142 193
+ 651. Js_money_crew                   5 11  0 142 201
+ 652. Fierce eSports CSGO             5 11  0 141 197
+ 653. Hate-                           5 11  0 141 201
+ 654. Euphoria v3                     5  9  0 140 178
+ 655. Midnight Wrecking Crew          5 10  0 138 170
+ 656. GLOCKNESS MONSTERS              5  7  0 137 158
+ 657. Abrasive cs                     5 11  0 135 190
+ 658. Illusory                        5 10  0 134 176
+ 659. 60 Percent Sorry                5 10  0 134 195
+ 660. Silent Empire                   5 10  0 133 172
+ 661. Keeps it Real                   5 11  0 133 226
+ 662. AlloY CSGO                      5 10  0 132 178
+ 663. Main Level Player INC           5 10  0 132 189
+ 664. Known Threat                    5 10  0 132 197
+ 665. Mooks                           5 11  0 131 189
+ 666. Team Desolace                   5 11  0 131 192
+ 667. 7th Chamber                     5 11  0 131 210
+ 668. Not2Shabby                      5 10  0 130 166
+ 669. LuNaCy Gaming                   5 11  0 128 192
+ 670. Alduin                          5 11  0 127 188
+ 671. The Lobster Boys                5  9  0 126 181
+ 672. Frosty Isnt a Man               5 11  0 126 211
+ 673. Ethical                         5 11  0 125 201
+ 674. Kings of the Dead               5 11  0 124 213
+ 675. Hype United                     5 10  0 123 172
+ 676. Tyrone And the SeaDogz          5 10  0 123 173
+ 677. AyWays Fruit Shop               5 10  0 120 160
+ 678. DadsMinecraftServer             5 10  0 119 179
+ 679. The Monster Squad               5 10  0 118 170
+ 680. Mudita                          5  9  0 118 171
+ 681. Swarm Gaming                    5 10  0 118 185
+ 682. Team Valence                    5  7  0 117 148
+ 683. Astro Gaming                    5 11  0 116 176
+ 684. DeadManWalkers                  5 10  0 115 187
+ 685. Team Default                    5 11  0 115 201
+ 686. Vape Central                    5  9  0 112 144
+ 687. Gentlemans Affairs              5  9  0 112 160
+ 688. Honorbound eSports              5  9  0 110 182
+ 689. THE SS PENGUIN                  5 11  0 110 196
+ 690. Aces High                       5 10  0 109 173
+ 691. Vigilant Addiction              5 11  0 109 218
+ 692. -Keyboard Warriors-             5  5  0 108  99
+ 693. FatalGamingCrew                 5  7  0 108 148
+ 694. Flast And Sloose                5 10  0 107 160
+ 695. The Chill                       5  9  0 104 144
+ 696. RIPPPPPPP                       5  9  0 104 165
+ 697. FLiK                            5 10  0 103 183
+ 698. Team Hassassin                  5  9  0 103 185
+ 699. SixthSense                      5  7  0 102 147
+ 700. Dexterity CS                    5 10  0 102 184
+ 701. CuckLods                        5  7  0  99 156
+ 702. Endling eSports                 5  9  0  97 144
+ 703. Principalis                     5  9  0  95 177
+ 704. 5Awpers                         5  9  0  93 180
+ 705. Dragons Piggy Bank              5  9  0  91 176
+ 706. From Scratch                    5 10  0  90 160
+ 707. Vatic                           5  9  0  87 169
+ 708. x5                              4 12  0 142 223
+ 709. Overdose Gaming                 4 11  0 140 208
+ 710. Virtual Pickle Tickle           4 12  0 139 213
+ 711. Solstice eSports                4 11  0 131 215
+ 712. Tilted Gamers                   4 10  0 129 179
+ 713. IceNine                         4 12  0 127 216
+ 714. FoxyFive                        4 11  0 122 179
+ 715. Thunder Logic                   4 11  0 121 188
+ 716. Greek Yodelers                  4 12  0 120 195
+ 717. ON1E                            4 12  0 117 211
+ 718. Mafia6                          4 11  0 113 194
+ 719. Waaaaaa GG                      4 11  0 109 213
+ 720. Crimson Champions               4 10  0 106 160
+ 721. Autonomous Gaming               4 10  0 105 166
+ 722. Victory eSports                 4 11  0 105 176
+ 723. CFStorm                         4 11  0 105 187
+ 724. Apollo Red                      4  8  0 104 180
+ 725. ReZistance                      4 11  0 104 184
+ 726. Ketchup and Liquor              4 10  0 102 160
+ 727. xqzt                            4 11  0  98 183
+ 728. STAY WOKE                       4  8  0  94 145
+ 729. TheEnigma                       4  8  0  93 130
+ 730. jiggles                         4 10  0  93 174
+ 731. Lightning Fast                  4 11  0  93 182
+ 732. 5 H Y P E B E A S T             4  8  0  92 148
+ 733. Storm The Front eSports         4  8  0  91 164
+ 734. EH2CR                           4 12  0  91 220
+ 735. The 4Head Gang                  4 10  0  89 160
+ 736. Party Hat Enthusiasts           4  8  0  88 156
+ 737. Shmaxys Big Ding Dong           4 10  0  88 177
+ 738. OLYMPU5                         4 10  0  85 160
+ 739. Conquistadors                   4  6  0  84 130
+ 740. Cloak Gaming                    4 10  0  84 160
+ 741. Special Defense Unit            4 11  0  82 176
+ 742. ninjaCrew                       4 10  0  81 160
+ 743. Ark Infinity                    4 11  0  81 176
+ 744. Nerve Gaming                    4 10  0  81 191
+ 745. Flavor Esports                  4  8  0  80 138
+ 746. Bompton Niggas                  4  8  0  79 139
+ 747. TriFractal                      4  8  0  77 151
+ 748. is it live                      4  6  0  76 109
+ 749. 64 tick                         4 10  0  76 160
+ 750. RELAX BOWLCUT                   4 10  0  75 172
+ 751. Based Esports                   4 11  0  68 176
+ 752. North Korean CS                 3 11  0 135 205
+ 753. Team Limit                      3 11  0 119 209
+ 754. Jalopys                         3 13  0 116 208
+ 755. No Armor                        3 12  0 112 192
+ 756. PURE RELLIUM                    3 12  0 111 211
+ 757. Vast eSports                    3 11  0  92 183
+ 758. Universe Gaming                 3 11  0  90 197
+ 759. Cypher Uprising                 3 11  0  89 177
+ 760. Canadian Salters                3  7  0  87 112
+ 761. AfterMathGG                     3 11  0  87 193
+ 762. Wraith 7                        3 11  0  86 200
+ 763. Calathiformity                  3 12  0  83 192
+ 764. Thiiqqq Cork E-Sports           3 11  0  83 204
+ 765. Virtu                           3 13  0  82 208
+ 766. RIPPO                           3  9  0  80 164
+ 767. Jaxonville Hawks                3  9  0  76 154
+ 768. United 5                        3  9  0  75 153
+ 769. Omnitrix Gang                   3  9  0  75 170
+ 770. The Latex Boyz                  3 11  0  75 185
+ 771. Team Obliquity                  3 13  0  75 211
+ 772. Ling Lings                      3  8  0  73 141
+ 773. Lets Bang                       3 11  0  72 176
+ 774. Beat by the D                   3 11  0  72 177
+ 775. JOKESHIT                        3  9  0  71 149
+ 776. Get Raged                       3  9  0  71 158
+ 777. Bust Down Brothers              3  9  0  69 144
+ 778. TeamNilbog                      3 11  0  68 186
+ 779. Attero CS                       3  9  0  67 161
+ 780. JTGS MONEY CREW                 3  7  0  65 138
+ 781. The Enclave                     3  7  0  64 135
+ 782. 2008 Detroit Lions              3 11  0  61 176
+ 783. The Undependables               3  7  0  60 136
+ 784. Lunar Games                     3  9  0  60 144
+ 785. Dilly Squad                     3  7  0  54 125
+ 786. Rascals                         3  7  0  53 112
+ 787. Exposed CS                      3  5  0  48  80
+ 788. McfondledByRonald               2 13  0  93 225
+ 789. Aroze Clan GG                   2 10  0  84 171
+ 790. Ares Five                       2 12  0  74 197
+ 791. Poggers                         2 12  0  71 198
+ 792. AHAH ded                        2 10  0  69 172
+ 793. Kvns Disciples                  2 10  0  69 179
+ 794. AceOfSpadezz                    2 12  0  69 206
+ 795. ToBeDet                         2 10  0  68 162
+ 796. Slap Shot                       2 10  0  67 165
+ 797. NA CS                           2 10  0  65 160
+ 798. Supreme meme teme               2  8  0  63 128
+ 799. Lil Monsters                    2 10  0  62 160
+ 800. tickle monsters                 2 10  0  61 172
+ 801. J0KExeSports                    2 12  0  60 192
+ 802. HighlandersGG                   2  8  0  59 163
+ 803. No Luck Requird                 2  8  0  58 128
+ 804. Team Dominis                    2 10  0  58 168
+ 805. Never Pull Out                  2 13  0  58 231
+ 806. InBearableGG                    2 10  0  57 164
+ 807. Nature of Kreation              2  4  0  56  68
+ 808. Vanish                          2 12  0  53 192
+ 809. Awaken Militia                  2 12  0  53 192
+ 810. FlashPoint Blaze                2  8  0  52 141
+ 811. LOADED BLACK                    2 12  0  52 192
+ 812. outRun                          2  8  0  50 128
+ 813. uNyan                           2  8  0  50 141
+ 814. Kingsglaive                     2 10  0  50 181
+ 815. DeathStride                     2  8  0  49 128
+ 816. Master Baiters                  2 12  0  49 210
+ 817. Nutty Buddies                   2  8  0  48 128
+ 818. Hollow                          2 10  0  48 160
+ 819. Salty Dogs Gaming               2 12  0  48 206
+ 820. Team Verence                    2  8  0  47 128
+ 821. Apes Out of the Zoo             2  8  0  46 128
+ 822. Zero Militia                    2 10  0  46 160
+ 823. nuters                          2  8  0  44 130
+ 824. SuperNovaGaming                 2  8  0  44 145
+ 825. Frootloops                      2  6  0  43  96
+ 826. xcent                           2  8  0  43 128
+ 827. FRAGile-CS                      2  8  0  43 138
+ 828. Worst Case Scenario             2 10  0  42 177
+ 829. Coconut-gg                      2  8  0  41 131
+ 830. Nimporte quoi                   2  8  0  37 128
+ 831. AwakenGG                        2  8  0  37 134
+ 832. gHosts                          2  8  0  36 128
+ 833. Adeft                           2  8  0  35 136
+ 834. chop chae                       2  4  0  32  77
+ 835. Motion-GG                       1  9  0  68 151
+ 836. The Window Lickers              1 11  0  65 183
+ 837. Fresh Fuking Start              1  9  0  64 144
+ 838. ESEASTOLEOURWINS                1  9  0  60 158
+ 839. BeSoar Gaming                   1  9  0  54 151
+ 840. DEADDDDDDDx                     1  9  0  53 144
+ 841. MistigriS eSports               1  9  0  52 150
+ 842. Armada                          1 11  0  52 179
+ 843. Flint Michigan Tropics          1  9  0  50 157
+ 844. The Forbidden Ones              1 11  0  48 176
+ 845. Fronteir                        1  7  0  47 112
+ 846. Siesta                          1  9  0  47 144
+ 847. T2Esports                       1  9  0  47 144
+ 848. CuttingEdge CSGO                1  9  0  46 150
+ 849. Helpdesk                        1  9  0  42 146
+ 850. Stress_eSports                  1  9  0  42 147
+ 851. The Big One                     1  9  0  40 144
+ 852. Pug Stars                       1  9  0  40 144
+ 853. the shadow realm                1  9  0  40 160
+ 854. MegaDead                        1 13  0  38 208
+ 855. CokeLines                       1  9  0  36 152
+ 856. Devils-                         1  9  0  35 145
+ 857. Uncle Phams Hazmat Hiros        1 13  0  35 208
+ 858. Volatile eSports                1  9  0  33 149
+ 859. Hugs and Kisses                 1 11  0  33 185
+ 860. console players                 1  7  0  32 115
+ 861. Team Cynical                    1  7  0  32 119
+ 862. Trumps Tendies                  1  9  0  31 144
+ 863. DAB                             1  9  0  30 144
+ 864. Crayon Sniffers                 1  9  0  29 144
+ 865. insane mediocrity               1  9  0  29 144
+ 866. Jabroni                         1  9  0  29 152
+ 867. MatchHeads                      1  9  0  29 153
+ 868. Team aSync                      1 11  0  29 176
+ 869. SadPups                         1 11  0  29 176
+ 870. TacTiX-GG                       1  9  0  27 144
+ 871. GangShitt                       1  7  0  26 119
+ 872. Snackeez eSports                1  9  0  26 144
+ 873. Vividus                         1  9  0  26 144
+ 874. DoubleStrike                    1  9  0  26 144
+ 875. disastercam                     1  9  0  25 144
+ 876. LONG LIVE ONE POINT SIX         1  9  0  24 144
+ 877. Asian Sensations                1 11  0  24 176
+ 878. BrightShade                     1  7  0  23 112
+ 879. Team Atlas                      1  9  0  23 144
+ 880. Apple                           1  7  0  22 112
+ 881. High Rollers                    1  9  0  21 144
+ 882. TeamHigher                      1  9  0  21 144
+ 883. Coopers Troopers                1  9  0  21 151
+ 884. Blank Face                      1  7  0  20 121
+ 885. River Ryan Rattlesnakes         1  9  0  20 144
+ 886. MoraleGG-                       1  7  0  18 119
+ 887. deaDddddd                       1  9  0  18 152
+ 888. California Offspring            1  9  0  17 144
+ 889. We Are Noodles                  1  9  0  17 144
+ 890. Artrion                         1  9  0  17 144
+ 891. Team Off That                   1  9  0  16 129
+ 892. Dare To Kayak                   1  9  0  16 144
+ 893. OrganiX                         1  9  0  16 144
+ 894. StratRoulette                   1  9  0  16 144
+ 895. Horizon Gaming                  1  9  0  16 144
+ 896. Marz Savages                    0 10  0  41 163
+ 897. Skyyfall                        0 10  0  38 160
+ 898. Vigorous                        0 10  0  34 160
+ 899. very-rare                       0 10  0  28 163
+ 900. Banana Bread Gaming             0 10  0  27 160
+ 901. Bakers BM Crew                  0 10  0  27 160
+ 902. Unnamed Team                    0 10  0  21 160
+ 903. habibet elbe                    0 10  0  20 166
+ 904. TeamSupreme                     0 10  0  19 160
+ 905. YouAlreadyKnow                  0 10  0  18 160
+ 906. R3ticle                         0 12  0  18 192
+ 907. Team Notorious eSports          0 10  0  17 163
+ 908. Silent Fox Gaming               0 10  0  15 160
+ 909. WastedTalent                    0 12  0  13 192
+ 910. AmurEsports                     0  8  0  11 128
+ 911. Burger World 5                  0 10  0   9 160
+ 912. Elite                           0 10  0   8 160
+ 913. Dead eSports                    0  7  0   5 112
+ 914. Supreme Nation                  0  6  0   4  96
+ 915. Str8 Gamers                     0  8  0   4 128
+ 916. Team is Dead                    0 10  0   2 160
+ 917. T-Strong                        0  6  0   1  96
+ 918. Eastern Timberwolves            0 10  0   1 160
+ 919. Kinetic Gaming                  0 10  0   1 160
+ 920. west coast                      0  6  0   0  96
+ 921. aLive_gg                        0  6  0   0  96
+ 922. bikini-bottom-fraggers          0  6  0   0  96
+ 923. KappaKai                        0  6  0   0  96
+ 924. Tahit                           0  6  0   0  96
+ 925. Team_Erox                       0  6  0   0  96
+ 926. SIINDER                         0  8  0   0 128
+ 927. Velocity Gaming                 0  8  0   0 128
+ 928. PRAY                            0  8  0   0 128
+ 929. Divine Rage                     0  8  0   0 128
+ 930. New Wave Gaming                 0  8  0   0 128
+ 931. OptimizedGaming                 0  8  0   0 128
+ 932. Blackhole Gaming                0  8  0   0 128
+ 933. Team Split                      0  8  0   0 128
