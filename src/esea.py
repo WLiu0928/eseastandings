@@ -65,7 +65,7 @@ def scrape_teams(url="https://play.esea.net/index.php?s=league&d=standings&divis
     print("Done!")
 
 def main():
-    url = input('Enter the esea division url: ')
+    url = raw_input('Enter the esea division url: ')
     scrape_teams(url)
 
 if __name__ == "__main__":
